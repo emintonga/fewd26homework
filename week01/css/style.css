@@ -1,0 +1,53 @@
+body {
+	color: #05080C;
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  background: #F6F6F6;
+}
+
+a {
+	color: pink;
+}
+
+
+h1 {
+	padding: 50px;
+}
+
+ul {
+	margin-left: 50px;
+}
+
+p {
+  font-family: Georgia,Times,"Times New Roman",serif;
+}
+
+header {
+  border-top: 5px solid #222222;
+  padding: 100px;
+}
+
+article {
+  border-bottom: 5px solid #222222;
+  padding: 100px;
+}
+
+article img {
+  float: right;
+  margin-left: 20px;
+}
+
+
+th {
+	background: #222;
+	color: white;
+	padding: 10px;
+}
+
+td {
+background: #eee;
+padding: 10px;
+
+}
